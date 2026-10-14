@@ -23,5 +23,8 @@
   "dependencies": {
     "date-holidays": "3.8",
     "hebrew-date": "^1.0.7"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.4"
   }
 }
