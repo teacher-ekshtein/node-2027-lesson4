@@ -1,0 +1,23 @@
+{
+  "name": "lesson4-npm",
+  "version": "1.0.0",
+  "description": "lesson about npm",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/teacher-ekshtein/node-2027-lesson4#readme",
+  "bugs": {
+    "url": "https://github.com/teacher-ekshtein/node-2027-lesson4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teacher-ekshtein/node-2027-lesson4.git"
+  },
+  "license": "ISC",
+  "author": "teacher ekshtein",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
