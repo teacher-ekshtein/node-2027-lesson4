@@ -19,5 +19,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "date-holidays": "3.8",
+    "hebrew-date": "^1.0.7"
   }
 }
